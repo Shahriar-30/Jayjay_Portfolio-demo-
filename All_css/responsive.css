@@ -1,0 +1,217 @@
+@media (min-width:0px) and (max-width:991px) {
+    .navbar-toggler {
+        background-color: #7562E0 !important;
+    }
+
+    .nav_bar {
+        padding: 10px 0 !important;
+    }
+    .nav_body{
+        width: 100%;
+        height: 100vh;
+    }
+    .hero_text {
+        order: 2;
+    }
+    .go_right {
+        margin-top: 30px !important;
+        align-items: flex-start !important;
+        justify-content: center !important;
+    }
+    .hero_img {
+        order: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .hero_img img {
+        margin-top: 5px !important;
+        width: 280px !important;
+        text-align: center;
+    }
+
+    .hero_box {
+        margin-top: 60px !important;
+        height: 100px !important;
+        position: relative !important;
+    }
+    .hero_text h2 {
+        font-size: 28px !important;
+        margin: 5px 0 0 0;
+    }
+    .hero_text h1 {
+        font-size: 40px !important;
+        margin-bottom: 2px !important;
+    }
+    .hero_text p {
+        font-size: 15px;
+        width: auto !important;
+        margin: 20px 0 !important;
+    }
+    .hero_btn {
+        margin-top: 30px !important;
+    }
+    .about_top h2 {
+        font-size: 28px !important;
+    }
+    .about_top p {
+        font-size: 15px !important;
+        line-height: 20px !important;
+        width: auto !important;
+        margin-top: 1rem !important;
+        
+    }
+    .about_exp p {
+        font-size: 18px !important;
+    }
+    .about_exp {
+        gap: 15px !important;
+        margin: 30px 0 !important;
+    }
+    .about_box {
+        align-items: center !important;   
+        margin: 10px 0 !important;
+        border-radius: 5px;
+    }
+    .about_box h3 {
+        text-align: center;
+    }
+    .proj_top p {
+        font-size: 15px  !important;
+        width: auto !important;
+        line-height: 25px !important;
+    }
+    .offer_top h2 {
+        font-size: 28px !important;
+        margin: 30px 0 !important;
+    }
+    .row_offer_1, .row_offer_2 {
+        gap: 10px !important;
+    }
+    .offer_box{
+        border-radius: 5px !important;
+    }
+    .proj_top h2 {
+        font-size: 28px !important;
+    }
+    .project_box h2 {
+        font-size: 18px !important;
+        margin-top: 10px !important;
+    }
+    .project_box p {
+        font-size: 15px !important;
+        width: auto !important;
+        text-align: center !important;
+    }
+    .project_box {
+        align-items: center !important;
+    }
+    .project_gap{
+        gap: 10px !important;
+    }
+    .project {
+        margin: 0px 0 !important;
+    }
+    .contact_text {
+        margin-bottom: 0px !important;
+        padding: 80px 0 0px 0 !important;
+        gap: 0px !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .contact_from h2 {
+        font-size: 18px !important;
+    }
+    form input {
+        width: auto !important;
+    }
+    form textarea {
+        width: auto !important;
+    }
+    .project_btn a {
+        font-size: 15px !important;
+    }
+    .footer {
+        margin-top: 120px !important;
+    }
+    .one {
+        align-items: center !important ;
+        justify-content: center !important;
+        margin: 0px 0 50px 0 !important;
+    }
+    .foot_soc{
+        text-align: center !important;
+    }
+    .footer_text {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+    .f_p {
+        padding-right: 0px !important;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .about_top p {
+        font-size: 18px !important;
+        line-height: 25px !important;
+    }
+    .about_top h2 {
+        font-size: 32px !important;
+    }
+    .about_exp p {
+        font-size: 21px !important;
+    }
+    .about_exp p {
+        font-size: 21px !important;
+    }
+    .about_box {
+        padding: 96px 0px 24px 0px !important;
+    }
+    .about_box h3 {
+        font-size: 15px !important;
+    }
+    .offer_top h2 {
+        font-size: 32px !important;
+        margin-bottom: 40px !important;
+    }
+    .proj_top h2 {
+        font-size: 32px !important;
+        margin-bottom: 10px !important;
+    }
+    .proj_top p {
+        font-size: 18px !important;
+    }
+    .project_box h2 {
+        font-size: 24px !important;
+    }
+    .project_box p {
+        font-size: 18px !important;
+        width: 303px !important;
+    }
+    .project_btn a {
+        font-size: 18px !important;
+    }
+    form input {
+        width: 480px !important;
+    }
+    form textarea {
+        width: 480px !important;
+    }
+    .contact_from h2 {
+        font-size: 22px !important;
+    }
+    .d-flex {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-evenly !important;
+    }
+    .footer_text {
+        font-size: 16px !important;
+        justify-content: space-between !important;
+        width: 80vw !important;
+    }
+    .f_1 {
+        margin: 0 auto 10px auto !important;
+    }
+}
